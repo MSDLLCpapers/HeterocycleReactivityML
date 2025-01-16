@@ -1,0 +1,3 @@
+# HeterocycleReactivityML
+
+This repo contains a dataset of 388 5-member heterocycles' reactivity entries in C-H functionalization and the code to train random forest regression models. Specifically, the data were collected in an iterative process with 8 rounds of active learning, using predictive models trained on each round of compound selection followed by experimentation to guide us in selection of the next round of compounds. Compared to collecting all data at once, this targeted sampling approach seeks to reduce the number of experiments and calculations to obtain a sufficiently robust model. This model continues to be used and updated as new use cases arrise to test its performance and expand its domain of applicability.

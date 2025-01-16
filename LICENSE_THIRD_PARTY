@@ -1,0 +1,16 @@
+--------------------------------------------------
+Third Party Dependencies Listed by License Type
+[Format: name (Python module) - URL]
+--------------------------------------------------
+
+OSI Approved (new BSD)
+* Pandas (pandas) - https://github.com/pandas-dev/pandas/blob/main/LICENSE
+* NumPy (numpy) - https://github.com/numpy/numpy/blob/main/LICENSE.txt
+* Matplotlib (matplotlib) - https://matplotlib.org/users/license.html
+* Seaborn (seaborn) - https://github.com/mwaskom/seaborn/blob/main/LICENSE
+
+Python Software Foundation License
+* RDKit (rdkit) - https://github.com/rdkit/rdkit/blob/master/LICENSE
+
+MIT License
+* Hyperopt (hyperopt) - https://github.com/hyperopt/hyperopt/blob/master/LICENSE
