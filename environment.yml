@@ -3,11 +3,11 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - matplotlib-base=3.3.4=py36hd391965_0
-  - numpy=1.19.5=py36hfc0c790_2
-  - pandas=1.1.5=py36h284efc9_0
-  - python=3.6.13=hffdb5ce_0_cpython
-  - rdkit=2020.09.3=py36hb039eae_0
-  - scikit-learn=0.24.2=py36h2fdd933_1
-  - scipy=1.5.3=py36h81d768a_1
-  - seaborn=0.11.0=ha770c72_1
+  - matplotlib-base=3.3.4
+  - numpy=1.19.5
+  - pandas=1.1.5
+  - python=3.6.13
+  - rdkit=2020.09.3
+  - scikit-learn=0.24.2
+  - scipy=1.5.3
+  - seaborn=0.11.0
